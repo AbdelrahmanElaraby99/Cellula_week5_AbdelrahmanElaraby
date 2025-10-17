@@ -1,0 +1,5 @@
+.env
+humaneval_processed.json
+humaneval_with_embeddings.json
+.vscode
+faiss_humaneval

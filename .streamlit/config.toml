@@ -1,0 +1,6 @@
+[theme]
+primaryColor = "#014BB6"            # Cobalt Blue (buttons, sliders, highlights)
+backgroundColor = "#000219"         # Rich Black (page background)
+secondaryBackgroundColor = "#1A1D2E"  # A softer dark 
+textColor = "#FCFDFE"               # White (text color)
+font = "sans serif"
